@@ -2,4 +2,4 @@
 Опис
 :kissing:
 
-:sos::exclamation:
+:sos::information_source:
